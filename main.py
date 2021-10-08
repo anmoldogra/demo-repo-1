@@ -1,0 +1,1 @@
+print("jo bhi main kehna chahun, barbaad kare alfaaz mere...")
